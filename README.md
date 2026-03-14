@@ -30,6 +30,9 @@ Your task is to build **TokenTrend** - an intelligent, web-based crypto tracking
 * **Historical Datasets:** [Google Drive Link](https://drive.google.com/drive/folders/1Q-S7JqnDO2ZlZVlkzf41AqOa_kEJQNwQ?usp=sharing) 
 * **Live Data API:** [CoinGecko API Documentation](https://docs.coingecko.com/docs/setting-up-your-api-key) 
 
+### Teams
+You can find your team here: [ View Teams](./TEAMS.md)
+
 ---
 
 ## Guidelines & Rules
